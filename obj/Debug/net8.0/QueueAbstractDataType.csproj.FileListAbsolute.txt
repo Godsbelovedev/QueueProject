@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\QueueAbstractDataType\bin\Debug\net8.0\QueueAbstractDataType.exe
+C:\Users\HP\Desktop\QueueAbstractDataType\bin\Debug\net8.0\QueueAbstractDataType.deps.json
+C:\Users\HP\Desktop\QueueAbstractDataType\bin\Debug\net8.0\QueueAbstractDataType.runtimeconfig.json
+C:\Users\HP\Desktop\QueueAbstractDataType\bin\Debug\net8.0\QueueAbstractDataType.dll
+C:\Users\HP\Desktop\QueueAbstractDataType\bin\Debug\net8.0\QueueAbstractDataType.pdb
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\QueueAbstractDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\QueueAbstractDataType.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\QueueAbstractDataType.AssemblyInfo.cs
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\QueueAbstractDataType.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\QueueAbstractDataType.dll
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\refint\QueueAbstractDataType.dll
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\QueueAbstractDataType.pdb
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\QueueAbstractDataType.genruntimeconfig.cache
+C:\Users\HP\Desktop\QueueAbstractDataType\obj\Debug\net8.0\ref\QueueAbstractDataType.dll
